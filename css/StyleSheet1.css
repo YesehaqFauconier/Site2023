@@ -1,8 +1,12 @@
-﻿body
-{
+﻿body {
     background-color: aqua;
-
 }
-h1{
+
+h1 {
     color: burlywood;
+}
+
+table, th, td {
+    width: 50%;
+    border: 2px solid;
 }
